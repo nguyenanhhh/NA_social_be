@@ -1,1 +1,1 @@
-**Switch to the 'brand master' branch**:
+**Switch to the 'master' branch**
