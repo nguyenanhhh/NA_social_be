@@ -2,11 +2,10 @@
 
 This is the backend for the Social Media App.
 You can find the frontend project here: [NA Social Frontend](https://github.com/nguyenanhhh/NA_Social.git)
-Technologies:
-Spring Boot
-Spring JPA for database operations
-Spring JDBC and MySQL Connector for database connection
-Design Pattern: RESTful API
+### Technologies:Spring Boot
++ Spring JPA for database operations
++ Spring JDBC and MySQL Connector for database connection
++ Design Pattern: RESTful API
 ## Project Setup Instructions:
 
 1. Clone the repository:
