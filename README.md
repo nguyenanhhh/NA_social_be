@@ -24,3 +24,4 @@ To deploy this project, follow these steps:
  ```bash
    java -jar ./target/core-0.0.1-SNAPSHOT.jar
 ```
+3. **Access the application via Swagger UI at the following link:** http://localhost:8088/swagger-ui/index.html#/
